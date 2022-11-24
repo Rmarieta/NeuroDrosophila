@@ -29,4 +29,4 @@ locomotion, such as the elevator reflex necessary to locomote on uneven terrain.
 
 ## Animation of the fly
 
-<img src='./res/fly.gif' width='60%'>
+<img src='./res/fly_animation.gif' width='60%'>
