@@ -2,7 +2,11 @@
 
 This repository contains the implementation of project described in the [project report](res/final_report.pdf). The implementation code is private and has not been publicly released so all the scripts are left empty on this repository.
 
-<a href='./res/final_report.pdf'><img src='./res/cover_report.png' width='60%'></a>
+<br />
+<p align="center">
+<a href='./res/final_report.pdf'><img src='./res/cover_report.png' width='40%' ></a>
+</p>
+<br />
 
 ## Abstract :
 
@@ -29,4 +33,8 @@ locomotion, such as the elevator reflex necessary to locomote on uneven terrain.
 
 ## Animation of the fly
 
-<img src='./res/fly_animation.gif' width='60%'>
+<br />
+
+<p align="center">
+<img src='./res/fly_animation.gif' width='50%'>
+</p>
