@@ -1,4 +1,4 @@
-# Sensory Feedback to Improve and Simplify a Neuromechanical Network in Adult <i>Drosophila Melanogaster</i>
+# Building the Neuromechanical Network of a <i>Drosophila Melanogaster</i>
 
 This repository contains the implementation of project described in the [project report](res/final_report.pdf). The implementation code is private and has not been publicly released so all the scripts are left empty on this repository.
 
